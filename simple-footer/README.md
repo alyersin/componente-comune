@@ -1,0 +1,1 @@
+Formatul de fișier pentru README e Markdown (.md). Poți citi mai multe despre acesta aici. Dar, pentru moment, scrie doar o scurtă descriere în editorul tău de text și salveaz-o în folder ca README.md.
